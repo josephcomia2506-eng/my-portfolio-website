@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "bi-code-slash",
+    "title": "Web Development",
+    "description": "Responsive websites using HTML, CSS, Bootstrap, JavaScript and Laravel."
+  },
+  {
+    "icon": "bi-laptop",
+    "title": "UI Design",
+    "description": "Clean, modern and responsive interfaces focused on user experience."
+  },
+  {
+    "icon": "bi-database",
+    "title": "Database",
+    "description": "Experience working with MySQL databases, CRUD operations and authentication systems."
+  }
+]

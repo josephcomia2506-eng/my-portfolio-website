@@ -1,0 +1,44 @@
+[
+  {
+    "title": "E-commerce API Documentation",
+    "description": "RESTful API documentation featuring authentication, product management, shopping cart, and order processing.",
+    "image": "https://elastic-path.files.svdcdn.com/static/resources-blog/ecommerce_api_medium_com_graphic-min.png",
+    "alt": "E-commerce API documentation"
+  },
+  {
+    "title": "Course Booking API Documentation",
+    "description": "API documentation for an online course booking platform with user authentication and enrollment.",
+    "image": "https://s3.us-west-1.wasabisys.com/idbwmedia.com/images/api_documentation_360.jpg",
+    "alt": "Course Booking API documentation"
+  },
+  {
+    "title": "Course Booking App",
+    "description": "Full-stack web application allowing users to browse, enroll, and manage online courses.",
+    "image": "https://www.makeitapp.com/images/booking/en/app-booking.png",
+    "alt": "Course Booking application"
+  },
+  {
+    "title": "E-commerce App",
+    "description": "Complete e-commerce platform with inventory, checkout, user accounts, and admin dashboard.",
+    "image": "https://cdn.dribbble.com/userupload/10803706/file/original-199e92f5c75289f0aa064f88e3fe4e87.png?resize=752x&vertical=center",
+    "alt": "E-commerce application design"
+  },
+  {
+    "title": "Airline Booking Mockup",
+    "description": "High-fidelity airline booking interface created using Figma following UI/UX principles.",
+    "image": "https://img.magnific.com/free-vector/flat-design-online-ticket-template_23-2151019609.jpg?semt=ais_hybrid&w=740&q=80",
+    "alt": "Airline booking mockup"
+  },
+  {
+    "title": "Airline Booking Prototype",
+    "description": "Interactive clickable prototype showcasing booking flow and responsive design.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhw3yV7phtyrx8PxEeR7Rq5vqyZOG3xSlJ3Iz1Jf5WpPcX16n2eWO2HfaR&s=10",
+    "alt": "Airline booking prototype"
+  },
+  {
+    "title": "Short Courses Capstone",
+    "description": "Final capstone integrating front-end, back-end, authentication, database management, and deployment.",
+    "image": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTMwNjIzLW84WFNRMA?revision=1",
+    "alt": "Short Courses capstone project"
+  }
+]
